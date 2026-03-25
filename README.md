@@ -1,6 +1,6 @@
 # Mathematical Foundations of Deep Learning (Chinese)
 
-"深度学习的数学基础"的中文翻译版
+"深度学习的数学基础"的中文翻译版，链接(https://github.com/august-ye/math-of-deep-learning/blob/main/深度学习的数学基础.pdf)
 
 Translation of draft book "Mathematical Foundations of Deep Learning" in Chinese.
 
